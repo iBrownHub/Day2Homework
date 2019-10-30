@@ -24,6 +24,7 @@ namespace Day2Homework
             climbings[0].PrintGradeStyle();
             climbings[1].PrintGradeStyle();
             climbings[2].PrintGradeStyle();
+            climbings[0].Indoor();
             climbings[1].Indoor();
             climbings[3].Indoor();
             Console.ReadLine();
